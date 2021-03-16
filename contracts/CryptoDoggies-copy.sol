@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-contract CrytoDoggies {
+contract CryptoDoggies {
 
     uint age = 10;
     uint maxAge = age * 5;
